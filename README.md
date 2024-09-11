@@ -5,7 +5,7 @@ This repository contains the code for the paper "Tracking Network Dynamics using
 The code is organized as follows:
 
 - The notebook `SyntheticExperiment.ipynb` contains the experiment in Section V.A with synthetic data.
-- The notebook `AirportDataExperiment.ipynb` contains the experiment in Section V.A with airport data retrieved from OAG database.
+- The notebook `AirportDataExperiment.ipynb` contains the experiment in Section V.B with airport data retrieved from OAG database.
 
 ## Citing
 
