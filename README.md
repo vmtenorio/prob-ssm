@@ -9,4 +9,13 @@ The code is organized as follows:
 
 ## Citing
 
-Coming soon.
+To cite our paper, please use:
+
+```
+@misc{tenorio24tracking,
+      title={Tracking Network Dynamics using Probabilistic State-Space Models}, 
+      author={Victor M. Tenorio and Elvin Isufi and Geert Leus and Antonio G. Marques},
+      year={2024},
+      url={https://arxiv.org/abs/2409.08238}, 
+}
+```
